@@ -36,3 +36,20 @@ pip install numpy
   ```
   python cipher_app.py
   ```
+- Antarmuka Pengguna akan muncul, di mana Anda dapat memasukkan teks atau mengunggah file teks dan memasukkan kunci untuk melakukan enkripsi atau dekripsi.
+
+
+### Langkah 3: Menggunakan Program
+
+- Masukkan teks yang ingin dienkripsi atau didekripsi pada bagian "Input Text / File".
+  - Anda dapat menulis teks secara langsung di area input.
+  - Atau, klik tombol "Upload File" untuk mengunggah file teks.
+- Masukkan kunci pada bagian "Key (min 12 chars)". Kunci harus terdiri dari minimal 12 karakter.
+- Pilih metode cipher:
+  - Vigenere
+  - Playfair
+  - Hill
+- Pilih tindakan:
+  - Klik tombol **Encrypt** untuk mengenkripsi teks.
+  - Klik tombol **Decrypt** untuk mendekripsi teks.
+- Lihat hasilnya di bagian "Output".
