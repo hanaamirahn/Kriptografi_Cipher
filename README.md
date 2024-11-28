@@ -27,5 +27,6 @@ Pastikan Python 3.x telah terinstal di komputer Anda. Kemudian, instal `numpy` d
 
 ```bash
 pip install numpy
+```
 
 ### Langkah 2: Jalankan Program
