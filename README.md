@@ -1,6 +1,6 @@
 # Aplikasi Enkripsi dan Dekripsi Cipher
 
-Aplikasi ini memungkinkan pengguna untuk mengenkripsi dan mendekripsi teks menggunakan tiga metode cipher populer: **Vigenere Cipher**, **Playfair Cipher**, dan **Hill Cipher**. Program ini menggunakan antarmuka grafis berbasis Tkinter untuk interaksi pengguna.
+Aplikasi ini memungkinkan pengguna untuk mengenkripsi dan mendekripsi teks menggunakan tiga metode cipher: **Vigenere Cipher**, **Playfair Cipher**, dan **Hill Cipher**. Program ini menggunakan antarmuka grafis berbasis Tkinter untuk interaksi pengguna.
 
 ## Fitur
 
@@ -27,3 +27,5 @@ Pastikan Python 3.x telah terinstal di komputer Anda. Kemudian, instal `numpy` d
 
 ```bash
 pip install numpy
+
+### Langkah 2: Jalankan Program
