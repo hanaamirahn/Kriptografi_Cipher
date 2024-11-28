@@ -34,7 +34,7 @@ pip install numpy
 - Unduh dan simpan file Python **cipher_gui.py** ke dalam folder di komputer Anda.
 - Jalankan program dengan perintah berikut:
   ```
-  python cipher_app.py
+  python cipher_gui.py
   ```
 - Antarmuka Pengguna akan muncul, di mana Anda dapat memasukkan teks atau mengunggah file teks dan memasukkan kunci untuk melakukan enkripsi atau dekripsi.
 
