@@ -30,3 +30,9 @@ pip install numpy
 ```
 
 ### Langkah 2: Jalankan Program
+
+- Unduh dan simpan file Python **cipher_gui.py** ke dalam folder di komputer Anda.
+- Jalankan program dengan perintah berikut:
+  ```
+  python cipher_app.py
+  ```
